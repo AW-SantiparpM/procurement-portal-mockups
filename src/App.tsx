@@ -304,7 +304,7 @@ export default function App() {
           </div>
           <footer className="h-10 flex items-center justify-between px-4 text-xs bg-white dark:bg-gray-900 border-t border-gray-200 dark:border-gray-800">
             <span className="text-gray-500 dark:text-gray-400">
-              © {new Date().getFullYear()} AMA Marine Procurement Mockups
+              © {new Date().getFullYear()} Procurement Portal Mockups
             </span>
             <span className="text-gray-400 hidden sm:inline">
               v{pkg.version}
